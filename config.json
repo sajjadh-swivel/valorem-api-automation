@@ -1,0 +1,25 @@
+{
+  "projectType": "API Automation",
+  "headless": "false",
+  "browserName": "chrome",
+  "DEFAULT_URL": "",
+  "URLS": {
+    "QA": "",
+    "DEV": "",
+    "STAGING": "",
+    "PROD": ""
+  },
+  "RETRY": "1",
+  "RETRY_INTERVAL": "2000",
+  "URL_RETRY": "3",
+  "URL_RETRY_INTERVAL": "2000",
+  "implicitWait": "10000",
+  "pageLoadTimeOut": "100000",
+  "scriptTimeOut": "60000",
+  "waitUntilDisplay": "10000",
+  "waitUntilClickable": "10000",
+  "pause": "10000",
+  "mochaTimeOut": "60000",
+  "waitforTimeout": "8000",
+  "connectionRetryTimeout": "120000"
+}

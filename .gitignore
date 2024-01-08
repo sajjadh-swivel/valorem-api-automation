@@ -1,0 +1,8 @@
+node_modules/
+logs/
+package-lock.json
+fuego-qe-framework/web.conf.js
+fuego-qe-framework/reports
+reports/
+allure-report/
+log/
